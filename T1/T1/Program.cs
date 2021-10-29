@@ -15,6 +15,10 @@ namespace T1
 
             //prod002
             string str = "";
+
+            //main
+
+            int autreMerge = 0;
         }
     }
 }
