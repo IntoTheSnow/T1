@@ -12,6 +12,9 @@ namespace T1
         {
             int x;
             int y = 1;
+
+            //prod002
+            string str = "";
         }
     }
 }
